@@ -1,2 +1,3 @@
-this is an example.
-i want to learn git.
+This is an example.
+I want to learn git.
+I really want to.
